@@ -34,7 +34,7 @@ Run the following in a terminal:
 
 
 git clone https://github.com/perbra123/TomAI.git
-cd tomai
+cd TomAI
 pip install torch datasets
 
 
