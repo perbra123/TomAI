@@ -33,8 +33,8 @@ Trains on both the Cornell Movie-Dialogs Corpus and the Hugging Face DailyDialog
 Run the following in a terminal:
 
 
-git clone <repo_url>
-cd <repo_dir>
+git clone https://github.com/perbra123/TomAI.git
+cd tomai
 pip install torch datasets
 
 
